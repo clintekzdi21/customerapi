@@ -1,0 +1,13 @@
+/node_modules/
+/npm-debug.log
+/public/bower_components
+/bower_components/
+/bower_components
+/.tmp
+/.sass-cache
+/dist
+/appfront/bower_components
+/errorlogs
+/errologs
+/public
+package-lock.json
